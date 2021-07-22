@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Theodore Pena"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Astronomy graduate student at UW-Madison."
+  bio    : "Astronomy graduate student at UW–Madison."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
