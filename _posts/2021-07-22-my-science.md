@@ -1,5 +1,5 @@
 ---
-title: "testing"
+title: "My Science"
 date: 2021-07-22T17:34:30-04:00
 categories:
   - Work
@@ -9,7 +9,7 @@ tags:
 ---
 
 UNDER CONSTRUCTION.
-My [CV][cv].
+For now, here's my [CV][cv].
 
 
 

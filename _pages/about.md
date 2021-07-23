@@ -11,4 +11,4 @@ Outside of academia, I avidly follow video game criticism and competitive Super 
 
 
 
-[mrp]: https://openhearted99.github.io/work/more-about-me-research/
+[mrp]: https://openhearted99.github.io/work/my-science/
