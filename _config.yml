@@ -19,12 +19,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   UNDER CONSTRUCTION
 twitter_username: theodore_pena
 github_username: openhearted99
-minimal_mistakes_skin: default
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
