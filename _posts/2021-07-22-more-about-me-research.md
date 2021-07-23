@@ -13,4 +13,4 @@ My [CV][cv]
 
 
 
-[cv]:openhearted99.github.io/assets/files/Pena_resume.pdf
+[cv]:https://openhearted99.github.io/assets/files/Pena_resume.pdf
