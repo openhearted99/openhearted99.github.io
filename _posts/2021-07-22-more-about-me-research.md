@@ -9,6 +9,4 @@ tags:
 ---
 
 UNDER CONSTRUCTION.
-My [CV][cv].
-
-[cv]: https://openhearted99.github.io/assets/files/Pena_resume.pdf/
+My ![CV](/assets/files/Pena_resume.pdf/)
