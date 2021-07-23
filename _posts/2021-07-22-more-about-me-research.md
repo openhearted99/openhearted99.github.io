@@ -9,4 +9,4 @@ tags:
 ---
 
 UNDER CONSTRUCTION.
-My ![CV](/assets/files/Pena_resume.pdf/)
+My ![CV](/assets/files/Pena_resume.pdf)
