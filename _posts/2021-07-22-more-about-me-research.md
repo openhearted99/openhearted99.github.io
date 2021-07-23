@@ -8,5 +8,7 @@ tags:
   - Research
 ---
 
-UNDER CONSTRUCTION
-My [CV][https://openhearted99.github.io/assets/files/Pena_resume.pdf/]
+UNDER CONSTRUCTION.
+My [CV][cv].
+
+[cv]: https://openhearted99.github.io/assets/files/Pena_resume.pdf/
