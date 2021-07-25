@@ -21,8 +21,11 @@ twitter_username: theodore_pena
 github_username: openhearted99
 minimal_mistakes_skin: "sunrise"
 search: true
+
+# Stuff I added
 logo: "/assets/image/voronoi.jpg"
 og_image: /assets/image/voronoi.jpg
+teaser: /assets/images/science_thumbnail.png
 
 # Build settings
 markdown: kramdown
