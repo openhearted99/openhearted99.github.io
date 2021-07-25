@@ -7,6 +7,8 @@ tags:
   - Personal
   - Research
 ---
+Here's are a few short summaries of the Projects I've worked on.
+# High-Redshift Galaxy Surveys
 
 UNDER CONSTRUCTION.
 For now, here's my [CV][cv].
