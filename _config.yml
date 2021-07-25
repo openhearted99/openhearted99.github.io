@@ -23,8 +23,8 @@ minimal_mistakes_skin: "sunrise"
 search: true
 
 # Stuff I added
-logo: "/assets/image/voronoi.jpg"
-og_image: /assets/image/voronoi.jpg
+logo: "/assets/images/voronoi.jpg"
+og_image: /assets/images/voronoi.jpg
 teaser: /assets/images/science_thumbnail.png
 
 # Build settings
