@@ -1,12 +1,11 @@
 ---
-title: My Science
-date: {}
+title: "My Science"
+date: 2021-07-22T17:34:30-04:00
 categories:
   - Work
 tags:
   - Personal
   - Research
-published: true
 ---
 Here's are a few short summaries of the projects I've worked on.
 # High-Redshift Galaxy Surveys
@@ -14,11 +13,11 @@ Here's are a few short summaries of the projects I've worked on.
 Work results were eventually utilized in a [paper published in ApJL][paper1].
 
 # AGN Evolution
-![HSC Photo](https://openhearted99.github.io/assets/images/hsc-photo.png)
+![HSC](https://openhearted99.github.io/assets/images/hsc-photo.png)
 The final investigation was published as a [paper in ApJL][paper2].
 
 # Cosmological Simulation and Galaxy Evolution
-![TNG100 Photo](https://openhearted99.github.io/assets/images/tng100-photo.png)
+![TNG100](https://openhearted99.github.io/assets/images/tng100-photo.png)
 The research was summarized in a [AAS Research Note][RN1].
 
 
