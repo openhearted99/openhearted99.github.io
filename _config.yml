@@ -25,7 +25,7 @@ search: true
 # Stuff I added
 logo: "/assets/images/voronoi.jpg"
 og_image: /assets/images/voronoi.jpg
-teaser: /assets/images/science_thumbnail.png
+teaser: /assets/images/science-thumbnail.png
 
 # Build settings
 markdown: kramdown
