@@ -1,23 +1,24 @@
 ---
-title: "My Science"
-date: 2021-07-22T17:34:30-04:00
+title: My Science
+date: {}
 categories:
   - Work
 tags:
   - Personal
   - Research
+published: true
 ---
 Here's are a few short summaries of the projects I've worked on.
 # High-Redshift Galaxy Surveys
-![DustyCosmos](https://openhearted99.github.io/assets/images/science-thumbnail.png)
+<img align="left" width="500" height="300" src="https://openhearted99.github.io/assets/images/science-thumbnail.png">
 Work results were eventually utilized in a [paper published in ApJL][paper1].
 
 # AGN Evolution
-![HSC](https://openhearted99.github.io/assets/images/hsc-photo.png)
+![HSC Photo](https://openhearted99.github.io/assets/images/hsc-photo.png)
 The final investigation was published as a [paper in ApJL][paper2].
 
 # Cosmological Simulation and Galaxy Evolution
-![TNG100](https://openhearted99.github.io/assets/images/tng100-photo.png)
+![TNG100 Photo](https://openhearted99.github.io/assets/images/tng100-photo.png)
 The research was summarized in a [AAS Research Note][RN1].
 
 
