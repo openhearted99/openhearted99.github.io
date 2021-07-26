@@ -9,7 +9,7 @@ tags:
 ---
 Here's are a few short summaries of the projects I've worked on.
 # High-Redshift Galaxy Surveys
-<img align="left" width="500" height="300" src="https://openhearted99.github.io/assets/images/science-thumbnail.png">
+<img align="right" width="500" height="300" src="https://openhearted99.github.io/assets/images/science-thumbnail.png">
 Work results were eventually utilized in a [paper published in ApJL][paper1].
 
 # AGN Evolution
