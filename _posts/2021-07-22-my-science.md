@@ -7,17 +7,18 @@ tags:
   - Personal
   - Research
 ---
-Here's are a few short summaries of the Projects I've worked on.
+Here's are a few short summaries of the projects I've worked on.
 # High-Redshift Galaxy Surveys
-
+Work resutls were eventually utilized in a [paper published in ApJL][paper1].
 
 # AGN Evolution
-
+The final investigation was published as a [paper in ApJL][paper2].
 
 # Cosmological Simulation and Galaxy Evolution
+The research was summarized in a [AAS Research Note][RN1].
 
-UNDER CONSTRUCTION.
-For now, here's my [CV][cv].
+
+Here's my [CV][cv].
 
 
 [paper1]: https://doi.org/10.3847/2041-8213/ab5b9f
