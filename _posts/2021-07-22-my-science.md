@@ -7,11 +7,11 @@ tags:
   - Personal
   - Research
 ---
-Here's are a few short summaries of the projects I've worked on.
+Here are a few short summaries of my major projects.
 # High-Redshift Galaxy Surveys
 ![Dusty Cosmos Photo](https://openhearted99.github.io/assets/images/science-thumbnail.png)
 _Image credit of Dusty Cosmos data release website_
-As an undergraduate, I worked extensively with Professor [Danilo Marchesini][danilo-link] to create multi-wavelength galaxy catalogs from space telescope data. My particular assignment involved debugging and updating our group's image processing scripts -- a pipeline which interfaced with Source Extractor and other softwares for galaxy detection and photometry. [Ben Forrest][ben-link], a collaborator of Professor Marchesini, would later follow up on our photometric work with in a co-authored [paper published in ApJL][paper1].
+As an undergraduate, I worked extensively with Professor [Danilo Marchesini][danilo-link] to create multi-wavelength galaxy catalogs from space telescope data. My particular assignment involved debugging and updating our group's image processing scripts -- a pipeline which interfaced with Source Extractor and other softwares for galaxy detection and photometry. [Ben Forrest][ben-link], a collaborator of Professor Marchesini, would later follow up on our photometric products in a co-authored [paper published in ApJL][paper1]. He found the largest spectroscopically confirmed quiescent galaxy at z>3, check it out!
 
 # AGN Evolution
 ![HSC Photo](https://openhearted99.github.io/assets/images/hsc-photo.png)
